@@ -2,8 +2,7 @@
 Programming Done in Data Structure Course of 4th semester
 
 
-1. Implement data structure operation on array.
-Aim: the objective of this experiment is to implement major data structure
+1. Implement data structure operation on array. **Aim**: the objective of this experiment is to implement major data structure
 operations insertion, deletion, traversing, searching using array.
 2. Implement Stack data structure.
 Aim: the objective of this experiment is to implement Stack operations PUSH,
