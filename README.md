@@ -31,4 +31,4 @@ Programming Done in Data Structure Course of 4th semester
 
 8. HomeTask: Implement Binary search and linear search.
 
-9. Assignment : Creating a table wit struct in c from user input and display on the console
+9. Assignment : Creating a table with struct in c from user input and display on the console
